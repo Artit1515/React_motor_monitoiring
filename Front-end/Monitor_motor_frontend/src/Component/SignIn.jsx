@@ -1,4 +1,4 @@
-function  SignIn() {
+function SignIn() {
     return (
       <>
        <div>SignIn</div> 
